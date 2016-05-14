@@ -1,0 +1,264 @@
+"","Predictions","title","artist","Location","date","m1","m2","m3","m4","art_index","Actuals","xdim","ydim","isRect","isSquare","TwoMat","ThreeMat","FourMat","age","isSea","isSun","isPortrait","isCoast","isNature","tit.len","name.len","isLove","isNude","isWinter","isLand","isUntitled","area","price_rating"
+"1",637.928466796875,"9oelstudien","emilschill","switzerland",1824,"painting","oil","canvas","none","249",675,40,40,1,0,1,1,0,192,1,1,1,1,1,11,10,1,1,1,1,1,1600,6.87935580446044
+"2",637.928466796875,"aarburgerlaubsgelihuus","elisabethhostettler","switzerland",1966,"painting","oil","wood","none","236",360,20,15,0,1,1,1,0,50,1,1,1,1,1,22,19,1,1,1,1,1,300,6.48616078894409
+"3",191.274932861328,"abstrakteskulptur","andrbucher","switzerland",1972,"sculpture-volume","bronze","none","none","72",315,20,20,1,0,1,1,0,44,1,1,1,1,1,17,10,1,1,1,1,1,400,6.4150969591716
+"4",365.999145507812,"aktmitdreikindern","margheritaosswaldtoppi","switzerland",1917,"sculpture-volume","sculpture"," wood","none","654",1080,50,50,1,0,1,1,0,99,1,1,1,1,1,17,22,1,1,1,1,1,2500,7.2283884515736
+"5",1037.42163085938,"alfermemitpetersinsel","rudolfweiss","switzerland",1522,"painting","oil","cardboard","none","847",270,20,35,0,1,1,1,0,494,1,1,1,1,1,21,11,1,1,1,1,1,700,6.33859407820318
+"6",1109.7734375,"alpfahrtdurchsdorf","jakoblooserrutz","switzerland",1991,"painting","oil","masonite","none","499",225,30,60,0,1,1,1,0,25,1,1,1,1,1,18,15,1,1,1,1,1,1800,6.25575004175337
+"7",191.274932861328,"ambielersee","janpieterterwey","switzerland",1654,"drawing-watercolor","gouache","paper","none","516",360,25,35,0,1,1,1,0,362,1,1,1,1,1,11,15,1,1,1,1,1,875,6.48616078894409
+"8",885.3671875,"amhallwilersee","adolfweber","switzerland",1966,"painting","oil","canvas","none","10",675,55,100,0,1,1,1,0,50,1,1,1,1,1,14,10,1,1,1,1,1,5500,6.87935580446044
+"9",637.928466796875,"amseeufer","adrienholy","switzerland",1938,"painting","oil","cardboard","none","15",360,35,50,0,1,1,1,0,78,1,1,1,1,1,9,10,1,1,1,1,1,1750,6.48616078894409
+"10",637.928466796875,"amuferdesbodensees","carltheodormeyer","switzerland",1911,"painting","oil","canvas","none","153",450,35,50,0,1,1,1,0,105,1,1,1,1,1,18,16,1,1,1,1,1,1750,6.61472560020376
+"11",438.712829589844,"appenzelleralpfahrt","henribernasconi","switzerland",1922,"drawing-watercolor","gouache","paper","none","450",495,45,65,0,1,1,1,0,94,1,1,1,1,1,19,15,1,1,1,1,1,2925,6.67456139181443
+"12",191.274932861328,"artilleriefeldweibel","friedricheduardtraffelet","switzerland",1888,"drawing-watercolor","ink","none","none","330",360,45,30,0,1,1,1,0,128,1,1,1,1,1,20,24,1,1,1,1,1,1350,6.48616078894409
+"13",286.213684082031,"ausdersagenweltderberge","martinschwarz","switzerland",2012,"sculpture-volume","mixed media sculpture","none","none","668",810,10,20,0,1,1,1,0,4,1,1,1,1,1,23,13,1,1,1,1,1,200,7.00940893270864
+"14",637.928466796875,"ausrittimaarauerschachen","elisabethhostettler","switzerland",1707,"painting","oil","wood","none","236",360,20,20,1,0,1,1,0,309,1,1,1,1,1,24,19,1,1,1,1,1,400,6.48616078894409
+"15",191.274932861328,"ballon","hanskchler","switzerland",1870,"drawing-watercolor","mixed media drawing","none","none","421",360,40,25,0,1,1,1,0,146,1,1,1,1,1,6,10,1,1,1,1,1,1000,6.48616078894409
+"16",631.60400390625,"basel","marialaroche","switzerland",1535,"painting","tempera","none","none","656",450,70,85,0,1,1,1,0,481,1,1,1,1,1,5,12,1,1,1,1,1,5950,6.61472560020376
+"17",1060.09143066406,"baselbieterdorf","augustcueni","switzerland",1866,"painting","oil","canvas","none","116",900,65,80,0,1,1,1,0,150,1,1,1,1,1,15,11,1,1,1,1,1,5200,7.08757370555797
+"18",1210.60144042969,"bauernhofimrauristalmasonellavalledirauris","auguststimpfl","italy",1980,"drawing-watercolor","watercolour","paper","none","122",1500,50,65,0,1,1,1,0,36,1,1,1,1,1,42,13,1,1,1,1,1,3250,7.49331724886215
+"19",637.928466796875,"blickdurchpinienhain","ernstschweizer","switzerland",1591,"painting","oil","canvas","none","270",450,55,45,0,1,1,1,0,425,1,1,1,1,1,20,14,1,1,1,1,1,2475,6.61472560020376
+"20",438.712829589844,"cancanstudiefrhannover","schanghutter","switzerland",1988,"drawing-watercolor","pencil","none","none","854",630,45,65,0,1,1,1,0,28,1,1,1,1,1,22,12,1,1,1,1,1,2925,6.83195356556585
+"21",637.928466796875,"capri","carloperindani","switzerland",1934,"painting","oil","wood","none","149",360,40,35,0,1,1,1,0,82,1,1,1,1,1,5,14,1,1,1,1,1,1400,6.48616078894409
+"22",637.928466796875,"chatons","julesgustaveleroy","switzerland",1965,"painting","oil","wood","none","582",720,20,25,0,1,1,1,0,51,1,1,1,1,1,7,17,1,1,1,1,1,500,6.92461239604856
+"23",26728.0390625,"cloakedcoupleii","lynnrussellchadwick","switzerland",1977,"sculpture-volume","bronze","none","none","648",31565,25,25,1,0,1,1,0,39,1,1,1,1,1,15,19,1,1,1,1,1,625,10.3691693561328
+"24",-648.179382324219,"damenportrait","heinrichdanioth","switzerland",1931,"drawing-watercolor","ink"," pen","paper","442",450,50,35,0,1,1,1,0,85,1,1,0,1,1,13,15,1,1,1,1,1,1750,6.61472560020376
+"25",191.274932861328,"dansemusiquepopulaire","mathurinmheut","switzerland",1924,"drawing-watercolor","watercolour","paper","none","672",540,20,30,0,1,1,1,0,92,1,1,1,1,1,21,13,1,1,1,1,1,600,6.72982407048948
+"26",812.652709960938,"derabend","emillthy","switzerland",1919,"painting","oil","canvas","none","246",1080,50,40,0,1,1,1,0,97,1,1,1,1,1,8,8,1,1,1,1,1,2000,7.2283884515736
+"27",191.274932861328,"dersomvix","carltheodormeyer","switzerland",1912,"drawing-watercolor","pastel","paper","none","153",360,30,40,0,1,1,1,0,104,1,1,1,1,1,9,16,1,1,1,1,1,1200,6.48616078894409
+"28",1109.7734375,"derblauejuraamsee","maxroberttheynet","switzerland",1879,"painting","oil","masonite","none","688",450,50,60,0,1,1,1,0,137,1,1,1,1,1,17,16,1,1,1,1,1,3000,6.61472560020376
+"29",-402.811767578125,"dieschweizinblumen","nillasix","switzerland",1833,"drawing-watercolor","gouache","none","none","723",225,100,100,1,0,1,1,0,183,1,1,1,1,1,18,8,1,1,1,1,1,10000,6.25575004175337
+"30",191.274932861328,"direktedemokratieja","josephbeuys","switzerland",1971,"print-multiple","print","none","none","574",225,75,50,0,1,1,1,0,45,1,1,1,1,1,19,11,1,1,1,1,1,3750,6.25575004175337
+"31",992.726440429688,"dobbiacoeinganginsdolomitengebietmanifestodobbiacoe","piosolero","italy",1939,"print-multiple","color poster","none","none","797",900,100,70,0,1,1,1,0,77,1,1,1,1,1,51,9,1,1,1,1,1,7000,7.08673793451058
+"32",1626.53601074219,"engadinerwintertag","maxalioth","switzerland",1917,"drawing-watercolor","watercolour","paper","none","679",1985,45,65,0,1,1,1,0,99,1,1,1,1,1,18,9,1,1,0,1,1,2925,7.73193072194849
+"33",191.274932861328,"fantasielandschaften","germainvandersteen","switzerland",1597,"drawing-watercolor","gouache","paper","none","367",270,25,20,0,1,1,1,0,419,1,1,1,1,1,20,18,1,1,1,0,1,500,6.33859407820318
+"34",637.928466796875,"feigenundbirne","rudolfhurni","switzerland",1984,"painting","oil","cardboard","none","836",315,25,35,0,1,1,1,0,32,1,1,1,1,1,14,11,1,1,1,1,1,875,6.4150969591716
+"35",4438.90625,"femmeaurouet","danielebuzzi","switzerland",1923,"drawing-watercolor","pastel","none","none","200",1445,120,75,0,1,1,1,0,93,1,1,1,1,1,12,12,1,1,1,1,1,9000,7.46106551435428
+"36",191.274932861328,"femmes","hansbellmer","switzerland",1713,"print-multiple","etching in colors","none","none","412",495,65,50,0,1,1,1,0,303,1,1,1,1,1,6,11,1,1,1,1,1,3250,6.67456139181443
+"37",-287.385711669922,"ferrylagomerabenchijigua","anneliesstrba","switzerland",1991,"drawing-watercolor","mixed media","paper","none","90",1985,100,140,0,1,1,1,0,25,1,1,1,1,1,24,13,1,1,1,1,1,14000,7.73193072194849
+"38",191.274932861328,"fezlaplacenezarine","paulfuriet","switzerland",2007,"drawing-watercolor","watercolour","paper","none","757",540,30,25,0,1,1,1,0,9,1,1,1,1,1,18,10,1,1,1,1,1,750,6.72982407048948
+"39",286.213684082031,"fleetofbuses","allenjones","switzerland",1966,"print-multiple","lithograph in colors","none","none","62",810,60,55,0,1,1,1,0,50,1,1,1,1,1,12,10,1,1,1,1,1,3300,7.00940893270864
+"40",1030.52770996094,"flussmithuserzeile","wouterusdenooy","switzerland",1686,"painting","oil","wood","none","974",1350,25,40,0,1,1,1,0,330,1,1,1,1,1,18,14,1,1,1,1,1,1000,7.40731771046942
+"41",191.274932861328,"freiburgertrachtenmdchen","rogerbohnenblust","switzerland",1976,"drawing-watercolor","gouache","none","none","825",270,30,25,0,1,1,1,0,40,1,1,1,1,1,24,16,1,1,1,1,1,750,6.33859407820318
+"42",637.928466796875,"frhling","ernstbreitenstein","switzerland",1893,"painting","oil","canvas","none","261",765,45,50,0,1,1,1,0,123,1,1,1,1,1,7,17,1,1,1,1,1,2250,6.96790920180188
+"43",5152.43359375,"fundstellen","danielgamperle","switzerland",1837,"painting","painting","none","none","201",3605,190,45,0,1,1,1,0,179,1,1,1,1,1,11,14,1,1,1,1,1,8550,8.26950076718061
+"44",637.928466796875,"gehftmitpferdegespann","franzkarlopitz","switzerland",1940,"painting","oil","wood","none","317",360,25,40,0,1,1,1,0,76,1,1,1,1,1,21,14,1,1,1,1,1,1000,6.48616078894409
+"45",191.274932861328,"girlwithlittledog","pavelpetrovitchtrubetskoy","switzerland",1722,"sculpture-volume","bronze","none","none","767",450,30,30,1,0,1,1,0,294,1,1,1,1,1,17,25,1,1,1,1,1,900,6.61472560020376
+"46",-15.3256702423096,"goldenemblemfacade","phillipmartin","switzerland",1964,"painting","mixed media","none","none","781",540,30,40,0,1,1,1,0,52,1,1,1,1,1,18,13,1,1,1,1,1,1200,6.72982407048948
+"47",410.985900878906,"hofimmartelltalmasoinvalmartello","herbertdanler","italy",1946,"print-multiple","etching","none","none","455",140,20,30,0,1,1,1,0,70,1,1,1,1,1,32,13,1,1,1,1,1,600,6.07764224334903
+"48",570.563781738281,"ichbrauchediesehilfenichtnonhobisognodiquestaiuto","fritzfrhlich","italy",1986,"drawing-watercolor","mixed media","paper","none","337",600,35,35,1,0,1,1,0,30,1,1,1,1,1,49,12,1,1,1,1,1,1225,6.79794041297493
+"49",1109.7734375,"imbodenappenzellerlandschaft","jakoblooserrutz","switzerland",1988,"painting","oil","masonite","none","499",225,30,60,0,1,1,1,0,28,1,1,1,1,1,28,15,1,1,1,0,1,1800,6.25575004175337
+"50",1945.65881347656,"imkieswerk","karlhindenlang","switzerland",1919,"painting","oil","cardboard","none","590",2705,40,50,0,1,1,1,0,97,1,1,1,1,1,10,14,1,1,1,1,1,2000,8.00670084544037
+"51",637.928466796875,"imknstlergarten","adolfweber","switzerland",1959,"painting","oil","cardboard","none","10",360,40,25,0,1,1,1,0,57,1,1,1,1,1,15,10,1,1,1,1,1,1000,6.48616078894409
+"52",1030.52770996094,"italienischelandschaft","jakobchristophbischoffattrib","switzerland",1758,"painting","oil","canvas","none","497",1350,35,45,0,1,1,1,0,258,1,1,1,1,1,22,28,1,1,1,0,1,1575,7.40731771046942
+"53",637.928466796875,"jagdszene","adolfnowey","switzerland",1927,"painting","oil","wood","none","9",450,25,45,0,1,1,1,0,89,1,1,1,1,1,9,10,1,1,1,1,1,1125,6.61472560020376
+"54",191.274932861328,"jeunepaysanneaubal","renvictorauberjonois","switzerland",1556,"drawing-watercolor","drawing","none","none","810",450,25,20,0,1,1,1,0,460,1,1,1,1,1,18,20,1,1,1,1,1,500,6.61472560020376
+"55",1231.66589355469,"judithundholofernes","emilcardinaux","switzerland",1920,"painting","oil","canvas","none","238",2255,90,110,0,1,1,1,0,96,1,1,1,1,1,19,13,1,1,1,1,1,9900,7.84384863815247
+"56",637.928466796875,"kahnfahrt","emilweber","switzerland",1873,"painting","oil","cardboard","none","250",405,50,40,0,1,1,1,0,143,1,1,1,1,1,9,9,1,1,1,1,1,2000,6.55250788703459
+"57",2802.39501953125,"laurore","marcchagall","switzerland",1983,"print-multiple","lithograph in colors","none","none","651",3605,55,40,0,1,1,1,0,33,1,1,1,1,1,7,11,1,1,1,1,1,2200,8.26950076718061
+"58",31.6970825195312,"lhommeducavernes","rolfiseli","switzerland",1750,"print-multiple","offset in colors","none","none","829",180,70,50,0,1,1,1,0,266,1,1,1,1,1,16,9,1,1,1,1,1,3500,6.16541785423142
+"59",663.118896484375,"llganteaurose","jeandominiquevancaulaert","switzerland",1635,"print-multiple","etching"," aquatint in colors","none","528",315,75,60,0,1,1,1,0,381,1,1,1,1,1,13,24,1,1,1,1,1,4500,6.4150969591716
+"60",637.928466796875,"lamaisondulevant","eugnelouismartin","switzerland",1943,"painting","oil","canvas","none","288",630,45,40,0,1,1,1,0,73,1,1,1,1,1,16,16,1,1,1,1,1,1800,6.83195356556585
+"61",191.274932861328,"labyrinth","zbigniewmakowski","switzerland",1964,"drawing-watercolor","ink","none","none","982",450,25,30,0,1,1,1,0,52,1,1,1,1,1,9,16,1,1,1,1,1,750,6.61472560020376
+"62",812.652709960938,"landschaftbeisonnenuntergang","ottopress","switzerland",1622,"painting","oil","canvas","none","742",855,30,40,0,1,1,1,0,394,1,1,1,1,1,28,9,1,1,1,0,1,1200,7.04925484125584
+"63",637.928466796875,"landsturmsoldatcharlesdeziegler","hanskarlschoellhorn","switzerland",1934,"painting","oil","canvas","none","420",360,65,55,0,1,1,1,0,82,1,1,1,1,1,31,19,1,1,1,0,1,3575,6.48616078894409
+"64",812.652709960938,"lecheminsousbois","longermainpelouse","switzerland",1817,"painting","oil","wood","none","633",855,25,50,0,1,1,1,0,199,1,1,1,1,1,16,17,1,1,1,1,1,1250,7.04925484125584
+"65",438.712829589844,"lesdssontjets","lecorbusier","switzerland",1592,"print-multiple","print in colors","none","none","611",225,40,65,0,1,1,1,0,424,1,1,1,1,1,13,11,1,1,1,1,1,2600,6.25575004175337
+"66",191.274932861328,"loslsung","ferdinandgehr","switzerland",1961,"print-multiple","woodcut in colors","none","none","297",405,35,35,1,0,1,1,0,55,1,0,1,1,1,8,13,1,1,1,1,1,1225,6.55250788703459
+"67",885.3671875,"lwetigerundzebraimsukkulentengarten","janplaskocinski","switzerland",1968,"painting","oil","canvas","none","517",405,65,75,0,1,1,1,0,48,1,1,1,1,1,35,15,1,1,1,1,1,4875,6.55250788703459
+"68",365.999145507812,"maibltentraum","melchiorlechter","switzerland",1937,"drawing-watercolor","pastel","paper","none","695",900,25,35,0,1,1,1,0,79,1,1,1,1,1,13,15,1,1,1,1,1,875,7.08757370555797
+"69",885.3671875,"marebasse","georgeslaporte","switzerland",1702,"painting","oil","canvas","none","359",675,65,90,0,1,1,1,0,314,1,1,1,1,1,9,14,1,1,1,1,1,5850,6.87935580446044
+"70",637.928466796875,"mediterranesdorf","carlwargh","switzerland",2013,"painting","oil","canvas","none","155",675,45,55,0,1,1,1,0,3,1,1,1,1,1,16,9,1,1,1,1,1,2475,6.87935580446044
+"71",191.274932861328,"militrmotorradfahrer","iwanedwinhugentobler","switzerland",1829,"drawing-watercolor","pencil","none","none","483",315,25,25,1,0,1,1,0,187,1,1,1,1,1,20,20,1,1,1,1,1,625,6.4150969591716
+"72",637.928466796875,"morement","phillipmartin","switzerland",1868,"painting","oil","paper","none","781",450,10,20,0,1,1,1,0,148,1,1,1,1,1,8,13,1,1,1,1,1,200,6.61472560020376
+"73",885.3671875,"morgendmmerung","karlrauber","switzerland",1907,"painting","oil","canvas","none","594",450,60,90,0,1,1,1,0,109,1,1,1,1,1,14,10,1,1,1,1,1,5400,6.61472560020376
+"74",365.999145507812,"muttermitkleinkind","edouardeugnevallet","switzerland",1917,"print-multiple","etching","none","none","224",900,40,30,0,1,1,1,0,99,1,1,1,1,1,18,18,1,1,1,1,1,1200,7.08757370555797
+"75",31.6970825195312,"mnneraktinwolkenkratzer","alexandrefassianos","switzerland",1969,"print-multiple","lithograph in colors","none","none","48",180,50,40,0,1,1,1,0,47,1,1,1,1,1,23,18,1,1,1,1,1,2000,6.16541785423142
+"76",191.274932861328,"mnnerakt","maximiliansoldenhoff","switzerland",1588,"sculpture-volume","bronze","none","none","682",450,40,40,1,0,1,1,0,428,1,1,1,1,1,8,20,1,1,1,1,1,1600,6.61472560020376
+"77",637.928466796875,"naturemorteloeufdecygogne","conradmeili","switzerland",1573,"painting","oil","cardboard","none","187",720,30,40,0,1,1,1,0,443,1,1,1,1,0,25,11,1,0,1,1,1,1200,6.92461239604856
+"78",585.618469238281,"nordafrikanischerhafen","lindi","switzerland",1939,"drawing-watercolor","watercolour"," gouache","paper","630",675,30,45,0,1,1,1,0,77,1,1,1,1,1,22,5,1,1,1,1,1,1350,6.87935580446044
+"79",663.118896484375,"nude","lucianocastelli","switzerland",1990,"print-multiple","lithograph","none","none","642",405,90,60,0,1,1,1,0,26,1,1,1,1,1,4,15,1,1,1,1,1,5400,6.55250788703459
+"80",191.274932861328,"offizierpatrouille","iwanedwinhugentobler","switzerland",1561,"drawing-watercolor","watercolour","paper","none","483",450,30,20,0,1,1,1,0,455,1,1,1,1,1,18,20,1,1,1,1,1,600,6.61472560020376
+"81",637.928466796875,"orageenprovence","charlesmonnier","switzerland",1979,"painting","oil","canvas","none","167",720,25,35,0,1,1,1,0,37,1,1,1,1,1,15,14,1,1,1,1,1,875,6.92461239604856
+"82",637.928466796875,"paesaggiotoscano","pieronardi","switzerland",1974,"painting","oil","wood","none","782",270,15,20,0,1,1,1,0,42,1,1,1,1,1,16,10,1,1,1,1,1,300,6.33859407820318
+"83",1517.59484863281,"paisaje","cosmealgarrayhurtado","switzerland",1548,"painting","oil","cardboard","none","195",450,40,45,0,1,1,1,0,468,1,1,1,1,1,7,20,1,1,1,1,1,1800,6.61472560020376
+"84",-15.3256702423096,"paradiesvogelaufblume","hannsstuder","switzerland",1990,"painting","painting","none","none","409",270,45,25,0,1,1,1,0,26,1,1,1,1,1,21,11,1,1,1,1,1,1125,6.33859407820318
+"85",191.274932861328,"parisnotredame","georgegessler","switzerland",1703,"drawing-watercolor","watercolour","paper","none","353",720,35,50,0,1,1,1,0,313,1,1,1,1,1,14,13,1,1,1,1,1,1750,6.92461239604856
+"86",191.274932861328,"partieamrigiweg","heinrichmurer","switzerland",1876,"drawing-watercolor","gouache","paper","none","445",225,15,20,0,1,1,1,0,140,1,1,1,1,1,15,13,1,1,1,1,1,300,6.25575004175337
+"87",1910.19396972656,"paysagegenevoise","louispatru","switzerland",1547,"painting","oil","canvas","none","640",1350,45,35,0,1,1,1,0,469,1,1,1,1,1,16,10,1,1,1,1,1,1575,7.40731771046942
+"88",31.6970825195312,"petitemre","thophilealexandresteinlen","switzerland",1619,"print-multiple","lithograph","none","none","887",200,55,35,0,1,1,1,0,397,1,1,1,1,1,9,25,1,1,1,1,1,1925,6.20253551718792
+"89",637.928466796875,"pferdekopf","gustavprucha","switzerland",1645,"painting","oil","wood","none","405",450,30,25,0,1,1,1,0,371,1,1,1,1,1,10,12,1,1,1,1,1,750,6.61472560020376
+"90",637.928466796875,"pfirsiche","fritzryser","switzerland",1973,"painting","oil","cardboard","none","343",360,25,40,0,1,1,1,0,43,1,1,1,1,1,9,10,1,1,1,1,1,1000,6.48616078894409
+"91",191.274932861328,"pierrotalsfalkner","aloiscarigiet","switzerland",1962,"print-multiple","lithograph in colors","none","none","64",360,65,50,0,1,1,1,0,54,1,1,1,1,1,17,13,1,1,1,1,1,3250,6.48616078894409
+"92",191.274932861328,"plateixfrom11x44","maxbill","switzerland",1634,"print-multiple","serigraph in colors","none","none","681",360,65,55,0,1,1,1,0,382,1,1,1,1,1,16,7,1,1,1,1,1,3575,6.48616078894409
+"93",191.274932861328,"portraitdavosiii24","gregorrabinovitch","switzerland",1953,"print-multiple","etching","none","none","393",225,40,40,1,0,1,1,0,63,1,1,0,1,1,18,17,1,1,1,1,1,1600,6.25575004175337
+"94",-648.179382324219,"profil","jeancocteau","switzerland",1951,"drawing-watercolor","ink"," pen","paper","527",585,40,25,0,1,1,1,0,65,1,1,1,1,1,6,11,1,1,1,1,1,1000,6.78219205600679
+"95",9302.1845703125,"pcheurbteauxamarebasseavantlecoupdevent","julesachillenol","switzerland",1880,"painting","oil","canvas","none","579",10820,65,105,0,1,1,1,0,136,0,1,1,1,1,39,15,1,1,1,1,1,6825,9.31632069551342
+"96",732.867248535156,"rastvorderherberge","heinrichbreling","switzerland",1877,"painting","oil","wood","none","441",810,30,50,0,1,1,1,0,139,1,1,1,1,1,18,15,1,1,1,1,1,1500,7.00940893270864
+"97",191.274932861328,"regenballon","hanskchler","switzerland",1973,"drawing-watercolor","watercolour","none","none","421",270,40,40,1,0,1,1,0,43,1,1,1,1,1,11,10,1,1,1,1,1,1600,6.33859407820318
+"98",191.274932861328,"riederalpimschnee","marieroll","switzerland",1572,"print-multiple","woodcut in colors","none","none","660",225,20,25,0,1,1,1,0,444,1,1,1,1,1,17,9,1,1,1,1,1,500,6.25575004175337
+"99",3496.4853515625,"rivadelgarda","francescogamba","switzerland",1712,"painting","oil","canvas","none","304",3605,65,80,0,1,1,1,0,304,1,1,1,1,1,12,14,1,1,1,1,1,5200,8.26950076718061
+"100",583.874206542969,"rodeobuckinghorseandrider","pavelpetrovitchtrubetskoy","switzerland",1755,"sculpture-volume","bronze","none","none","767",1350,40,20,0,1,1,1,0,261,0,1,1,1,1,25,25,1,1,1,1,1,800,7.40731771046942
+"101",583.874206542969,"rondoaufrot","walterrudolfmumprecht","switzerland",1697,"drawing-watercolor","ink","paper","none","940",1350,30,35,0,1,1,1,0,319,1,1,1,1,1,11,21,1,1,1,1,1,1050,7.40731771046942
+"102",191.274932861328,"rotblau","giuglielmotavernaro","switzerland",1964,"drawing-watercolor","ink","none","none","379",225,15,25,0,1,1,1,0,52,1,1,1,1,1,7,19,1,1,1,1,1,375,6.25575004175337
+"103",637.928466796875,"samedilaprsmidiauparc","enriqueatalaya","switzerland",1908,"painting","oil","cardboard","none","253",765,10,10,1,0,1,1,0,108,1,1,1,1,1,21,14,1,1,1,1,1,100,6.96790920180188
+"104",31.6970825195312,"schweizerarmeeaviatik","ernstemilschlatter","switzerland",1918,"print-multiple","lithograph","none","none","262",180,45,35,0,1,1,1,0,98,1,1,1,1,1,21,18,1,1,1,1,1,1575,6.16541785423142
+"105",-648.179382324219,"schweizersteinstosser","mauricebarraud","switzerland",1842,"drawing-watercolor","ink"," pen","paper","675",405,35,30,0,1,1,1,0,174,1,1,1,1,1,21,14,1,1,1,1,1,1050,6.55250788703459
+"106",885.3671875,"schwbischesdorf","walterstrichchapell","switzerland",1900,"painting","oil","canvas","none","941",630,75,100,0,1,1,1,0,116,1,1,1,1,1,15,19,1,1,1,1,1,7500,6.83195356556585
+"107",637.928466796875,"sennensonntag","christianvetschattrib","switzerland",2010,"painting","oil","masonite","none","177",270,20,25,0,1,1,1,0,6,1,1,1,1,1,13,21,1,1,1,1,1,500,6.33859407820318
+"108",885.3671875,"sisishundepaar","burkhardkatzenflury","switzerland",2002,"painting","oil","wood","none","142",360,50,70,0,1,1,1,0,14,1,1,1,1,1,14,19,1,1,1,1,1,3500,6.48616078894409
+"109",637.928466796875,"sommertaginaaraulaurenzenvorstadt","franzjosephadolfweibel","switzerland",1913,"painting","oil","cardboard","none","316",450,40,50,0,1,1,1,0,103,1,1,1,1,1,33,22,1,1,1,1,1,2000,6.61472560020376
+"110",1109.7734375,"sonnenblumenhommageanvincentvangogh","adolfweber","switzerland",1978,"painting","oil","canvas","none","10",585,80,60,0,1,1,1,0,38,1,1,1,1,1,35,10,1,1,1,1,1,4800,6.78219205600679
+"111",885.3671875,"starnbergerseegegendietlzerberge","hugokreyssig","switzerland",1841,"painting","oil","canvas","none","464",360,55,75,0,1,1,1,0,175,1,1,1,1,1,32,12,1,1,1,1,1,4125,6.48616078894409
+"112",1060.09143066406,"stillebenmitfiguren","heinrichmller","switzerland",1936,"painting","oil","canvas","none","444",855,75,90,0,1,1,1,0,80,1,1,1,1,1,19,13,1,1,1,1,1,6750,7.04925484125584
+"113",31.6970825195312,"stilleben","conradmeili","switzerland",1948,"print-multiple","monotype","none","none","187",180,30,40,0,1,1,1,0,68,1,1,1,1,1,9,11,1,1,1,1,1,1200,6.16541785423142
+"114",191.274932861328,"surlecanap","antoinecalbet","switzerland",1771,"drawing-watercolor","watercolour","paper","none","95",225,15,10,0,1,1,1,0,245,1,1,1,1,1,10,13,1,1,1,1,1,150,6.25575004175337
+"115",191.274932861328,"tahititnzer","emillthy","switzerland",1624,"drawing-watercolor","gouache","none","none","246",360,50,25,0,1,1,1,0,392,1,1,1,1,1,11,8,1,1,1,1,1,1250,6.48616078894409
+"116",4492.9609375,"tartarusiii","tonylucblickx","switzerland",1963,"painting","oil","masonite","none","895",450,120,80,0,1,1,1,0,53,1,1,1,1,1,11,13,1,1,1,1,1,9600,6.61472560020376
+"117",-648.179382324219,"themall","felikstopolski","switzerland",1845,"drawing-watercolor","ink"," pen","paper","294",360,15,20,0,1,1,1,0,171,1,1,1,1,1,7,14,1,1,1,1,1,300,6.48616078894409
+"118",191.274932861328,"thefourthdimension","rudolfthgloor","switzerland",1971,"sculpture-volume","relief","none","none","844",450,55,50,0,1,1,1,0,45,1,1,1,1,1,18,13,1,1,1,1,1,2750,6.61472560020376
+"119",31.6970825195312,"theoshund","hansschrer","switzerland",1989,"print-multiple","drypoint","none","none","431",180,55,35,0,1,1,1,0,27,1,1,1,1,1,9,10,1,1,1,1,1,1925,6.16541785423142
+"120",436.441131591797,"toggenburgerlandschaft","hansrohner","switzerland",1934,"painting","oil","canvas","none","429",1350,85,115,0,1,1,1,0,82,1,1,1,1,1,22,10,1,1,1,0,1,9775,7.40731771046942
+"121",191.274932861328,"trainsoldatmitarbeitspferd","charleslplattenier","switzerland",1875,"drawing-watercolor","charcoal","none","none","165",360,45,50,0,1,1,1,0,141,1,1,1,1,1,26,18,1,1,1,1,1,2250,6.48616078894409
+"122",191.274932861328,"tulpe","ferdinandgehr","switzerland",1968,"print-multiple","woodcut in colors","none","none","297",405,20,15,0,1,1,1,0,48,1,1,1,1,1,5,13,1,1,1,1,1,300,6.55250788703459
+"123",438.712829589844,"vexilloide","andrevrard","switzerland",1982,"drawing-watercolor","mixed media drawing","none","none","81",360,50,70,0,1,1,1,0,34,1,1,1,1,1,10,10,1,1,1,1,1,3500,6.48616078894409
+"124",637.928466796875,"vordemgewitterkuhherdeaufderweide","albertheinrichbrendel","switzerland",1640,"painting","oil","canvas","none","20",360,30,55,0,1,1,1,0,376,1,1,1,1,1,33,21,1,1,1,1,1,1650,6.48616078894409
+"125",885.3671875,"weitelandschaftmitblickaufflussundstdtchen","lonnyvonplnckner","switzerland",1957,"painting","oil","canvas","none","634",450,65,100,0,1,1,1,0,59,1,0,1,1,1,42,16,1,1,1,0,1,6500,6.61472560020376
+"126",1030.52770996094,"winterlandschaftmitholzsammlerinimabendlicht","johannjungblut","switzerland",1942,"painting","oil","canvas","none","552",1350,55,35,0,1,1,1,0,74,1,1,1,1,1,44,14,1,1,0,0,1,1925,7.40731771046942
+"127",885.3671875,"wintertag","adolfweber","switzerland",1778,"painting","oil","canvas","none","10",675,60,90,0,1,1,1,0,238,1,1,1,1,1,9,10,1,1,0,1,1,5400,6.87935580446044
+"128",637.928466796875,"wolkenspielberdembelchen","emilschill","switzerland",1822,"painting","oil","canvas","none","249",540,30,40,0,1,1,1,0,194,1,1,1,1,1,24,10,1,1,1,1,1,1200,6.72982407048948
+"129",191.274932861328,"wrappedsylvette","christo","switzerland",1610,"print-multiple","print in colors","none","none","178",450,65,50,0,1,1,1,0,406,1,1,1,1,1,15,7,1,1,1,1,1,3250,6.61472560020376
+"130",1210.60144042969,"zudongiovanni","markusvallazza","italy",1977,"drawing-watercolor","mixed media","paper","none","666",1400,45,65,0,1,1,1,0,39,1,1,1,1,1,13,14,1,1,1,1,1,2925,7.43602781635185
+"131",191.274932861328,"zweikleinkompositionen","karinmueller","switzerland",2012,"drawing-watercolor","mixed media","paper","none","586",270,10,10,1,0,1,1,0,4,1,1,1,1,1,22,12,1,1,1,1,1,100,6.33859407820318
+"132",570.563781738281,"asceneinthemountains","ladogudiasvili","NY",1606,"drawing-watercolor","ink","none","none","608",700,15,20,0,1,1,1,0,410,1,1,1,1,1,20,14,1,1,1,1,1,300,6.90475076996184
+"133",1210.60144042969,"asovietcircusposterforgostsirkoforiginalnayasmeshanay","semensolomonovichmandel","NY",1918,"print-multiple","lithograph in colors","none","none","857",1315,105,70,0,1,1,1,0,98,1,1,1,1,1,53,23,1,1,1,1,1,7350,7.38461038317697
+"134",6084.77685546875,"atraverslequartierchinoisthroughchinatown","gerardpieteradolfs","singapore",1977,"painting","oil","canvas","none","365",4510,30,40,0,1,1,1,0,39,1,1,1,1,1,41,18,1,1,1,1,1,1200,8.47793247746293
+"135",410.985900878906,"abfahrtdiscesa","raimundwrle","italy",1959,"print-multiple","linocut in colors","none","none","802",200,15,10,0,1,1,1,0,57,1,1,1,1,1,14,11,1,1,1,1,1,150,6.20657592672493
+"136",570.563781738281,"abstractcompositionbutterfly","mikhailtarkhanov","NY",1932,"drawing-watercolor","gouache","paper","none","704",700,35,25,0,1,1,1,0,84,1,1,1,1,1,28,16,1,1,1,1,1,875,6.90475076996184
+"137",570.563781738281,"abstractcompositionredyellowblue","mikhailtarkhanov","NY",1660,"drawing-watercolor","gouache","paper","none","704",700,40,30,0,1,1,1,0,356,1,1,1,1,1,32,16,1,1,1,1,1,1200,6.90475076996184
+"138",1017.21795654297,"alpenblumenfiorialpini","mariatilipaulkistler","italy",1929,"painting","oil","wood","none","657",500,30,35,0,1,1,1,0,87,1,1,1,1,1,22,20,1,1,1,1,1,1050,6.67959918584438
+"139",410.985900878906,"altermannuomoanziano","ottmarzeiller","italy",1993,"drawing-watercolor","chalk","paper","none","735",80,50,20,0,1,1,1,0,23,1,1,1,1,1,20,13,1,1,1,1,1,1000,5.92958914338989
+"140",1017.21795654297,"altermannmitengeluomoanzianoconangelo","emanuelraffeiner","italy",1997,"painting","oil","board","none","237",500,35,20,0,1,1,1,0,19,1,1,1,1,1,37,16,1,1,1,1,1,700,6.67959918584438
+"141",4263.56640625,"anallegoryofmusic","carlosbarberis","NY",1900,"painting","oil","canvas","none","150",1315,120,90,0,1,1,1,0,116,1,1,1,1,1,17,14,1,1,1,1,1,10800,7.38492070125549
+"142",410.985900878906,"anbetungderknigeadorazionedeimagi","johannevangelistholzer","italy",1596,"print-multiple","etching","none","none","545",200,15,10,0,1,1,1,0,420,1,1,1,1,1,33,22,1,1,1,1,1,150,6.20657592672493
+"143",570.563781738281,"atadacha","nikolaitroshin","NY",1930,"drawing-watercolor","gouache","paper","none","719",790,30,45,0,1,1,1,0,86,1,1,1,1,1,8,14,1,1,1,1,1,1350,6.98933526597456
+"144",50260.42578125,"auferweckungdeslazarus","hansirottenhammer","cologne",1807,"painting","oil","copper","none","418",47500,25,35,0,1,1,1,0,209,1,1,1,1,1,22,17,1,1,1,1,1,875,10.7746972329696
+"145",8306.3046875,"balidancer","emilrizek","singapore",1950,"drawing-watercolor","gouache","paper","none","248",8055,75,55,0,1,1,1,0,66,1,1,1,1,1,10,9,1,1,1,1,1,4125,9.03037603475591
+"146",7930.169921875,"bauernineinerschnke","victormahu","cologne",1522,"painting","oil","canvas","none","915",6500,60,85,0,1,1,1,0,494,1,1,1,1,1,19,10,1,1,1,1,1,5100,8.82408948279182
+"147",963.1630859375,"baumalbero","karlstark","italy",1962,"drawing-watercolor","watercolour","paper","none","597",1500,65,45,0,1,1,1,0,54,1,1,1,1,1,10,9,1,1,1,1,1,2925,7.49331724886215
+"148",745.2880859375,"beautyridingalion","paulphilippe","NY",1757,"sculpture-volume","bronze","none","none","761",875,30,30,1,0,1,1,0,259,1,1,1,1,1,17,12,1,1,1,1,1,900,7.06689350032043
+"149",2334.58984375,"bekehrungdespaulus","federicozuccari","cologne",1923,"drawing-watercolor","ink"," pen"," brush","293",1000,15,10,0,1,1,1,0,93,1,1,1,1,1,18,15,1,1,1,1,1,150,7.16703787691222
+"150",9410.8076171875,"bewaldetelandschaftmitwanderern","jandirckszboth","cologne",2008,"painting","oil","wood","none","503",9000,30,35,0,1,1,1,0,8,1,1,1,1,1,31,14,1,1,1,0,1,1050,9.13733947909169
+"151",111937.640625,"bewaldetelandschaftmiterlegtentieren","janiilucasvanbruegheluden","cologne",1888,"painting","oil","wood","none","508",90000,50,75,0,1,1,1,0,128,1,1,1,1,1,36,25,1,1,1,0,1,3750,11.4108484416355
+"152",410.985900878906,"bildnislotteheigltesarritrattolotteheigltesar","ernstnepo","italy",1922,"print-multiple","etching","none","none","269",70,10,5,0,1,1,1,0,94,1,1,1,1,1,45,9,1,1,1,1,1,50,5.90263333340137
+"153",5583.1015625,"bildniseinerjungenfrauimprofil","balthasardenner","cologne",1732,"painting","oil","copper","none","128",3500,15,15,1,0,1,1,0,284,1,1,1,1,1,30,15,1,1,1,1,1,225,8.24170315972982
+"154",963.1630859375,"birches","stanislawzukowski","NY",1910,"drawing-watercolor","gouache","paper","none","873",1315,60,30,0,1,1,1,0,106,1,1,1,1,1,7,17,1,1,1,1,1,1800,7.38492070125549
+"155",10639.0830078125,"birds","chenwenxi","singapore",1974,"drawing-watercolor","ink"," color","silk","173",9990,50,30,0,1,1,1,0,42,1,1,1,1,1,5,9,1,1,1,1,1,1500,9.23858763491429
+"156",16467.93359375,"blumenineinerantilisierendenreliefvase","francescomantovano","cologne",1799,"painting","oil","canvas","none","305",16500,65,50,0,1,1,1,0,217,1,1,1,1,1,38,18,1,1,1,1,1,3250,9.72889604180408
+"157",30624.515625,"blumengirlandemitvenusundadonis","janphilipsrigoultsvanthielen","cologne",1653,"painting","oil","canvas","none","515",27500,85,65,0,1,1,1,0,363,1,0,1,1,1,31,28,1,1,1,0,1,5525,10.2326474044342
+"158",11810.48046875,"blumenstillleben","janvanhuysum","cologne",1735,"drawing-watercolor","watercolour","paper","none","520",11000,25,15,0,1,1,1,0,281,1,1,1,1,1,16,12,1,1,1,1,1,375,9.33220395973302
+"159",964.906799316406,"bouquetofgardendaisies","mariatime","NY",1952,"drawing-watercolor","watercolour"," gouache","paper","658",350,70,50,0,1,1,1,0,64,1,1,1,1,1,22,9,1,1,1,1,1,3500,6.47157319821191
+"160",4013.48583984375,"bridecrowd","aleksandrszitomirskij","NY",1932,"drawing-watercolor","collage","none","none","35",5260,15,15,1,0,1,1,0,84,1,1,1,1,1,10,21,1,1,1,1,1,225,8.62299361030245
+"161",4013.48583984375,"bridetrainstationshore","aleksandrszitomirskij","NY",1932,"drawing-watercolor","collage","none","none","35",5260,15,15,1,0,1,1,0,84,1,1,1,1,1,22,21,1,1,1,1,1,225,8.62299361030245
+"162",1077.66259765625,"bythesource","klarafilippovnavlasova","NY",1990,"painting","oil","canvas","none","605",525,80,110,0,1,1,1,0,26,1,1,1,1,1,11,22,1,1,1,1,1,8800,6.71113193747732
+"163",570.563781738281,"bureinmittraubecontadinaconuva","mariadelago","italy",1804,"sculpture-volume","glazed ceramic","none","none","655",800,20,20,1,0,1,1,0,212,1,1,1,1,1,30,11,1,1,1,1,1,400,6.99942246750796
+"164",1191.94213867188,"calmseabyarockycoast","pavelromanovichmedem","NY",1902,"painting","oil","canvas","none","768",1185,25,30,0,1,1,1,0,114,0,1,1,0,1,20,20,1,1,1,1,1,750,7.29945947184026
+"165",570.563781738281,"castelfeder","hansprnster","italy",1992,"drawing-watercolor","pastel","paper","none","428",400,20,20,1,0,1,1,0,24,1,1,1,1,1,11,11,1,1,1,1,1,400,6.54534966033442
+"166",7283.23876953125,"christuswirdandaskreuzgeschlagenchristusamkreuz","jacobsymonszpynasattrib","cologne",1929,"painting","oil","wood","none","490",6500,20,15,0,1,1,1,0,87,1,1,1,1,1,47,23,1,1,1,1,1,300,8.82408948279182
+"167",28166.328125,"columbarium","vasilyalexandrovichkotarbinsky","NY",1803,"painting","oil","canvas","none","907",30695,65,125,0,1,1,1,0,213,1,1,1,1,1,11,30,1,1,1,1,1,8125,10.3414521187349
+"168",1017.21795654297,"dasgiraffenkomplimentilcomplimentodellagiraffa","hanskrenn","italy",1972,"painting","oil","panel","none","422",400,45,40,0,1,1,1,0,44,1,1,1,1,1,46,9,1,1,1,1,1,1800,6.54534966033442
+"169",46828.62890625,"dasschwertdesdamokles","theodorroos","cologne",1672,"painting","oil","canvas","none","876",45000,55,65,0,1,1,1,0,344,1,1,1,1,1,21,11,1,1,1,1,1,3575,10.7209740073517
+"170",992.726440429688,"diebadendenlebagnanti","massimocampigli","italy",1957,"print-multiple","lithograph in colors","none","none","671",900,50,65,0,1,1,1,0,59,1,1,1,1,1,21,15,1,1,1,1,1,3250,7.08673793451058
+"171",30848.921875,"diebefreiungderandromeda","thomasbosschaertwilleboirts","cologne",1895,"painting","oil","canvas","none","883",37500,75,60,0,1,1,1,0,121,1,1,1,1,1,24,27,1,1,1,1,1,4500,10.5399585559025
+"172",410.985900878906,"dieblindengruppeilgruppodeiciechi","joshystieber","italy",1972,"print-multiple","etching","none","none","577",150,50,30,0,1,1,1,0,44,1,1,1,1,1,33,12,1,1,1,1,1,1500,6.10031895202006
+"173",1851.85388183594,"dragonbaby3","harispurnomo","singapore",1987,"painting","oil"," acrylic","canvas","437",2580,145,145,1,0,1,1,0,29,1,1,1,1,1,11,12,1,1,1,1,1,21025,7.9632860779478
+"174",2572.38305664062,"dreameskiz","victorkhromin","NY",1987,"painting","oil","canvas","none","914",3070,50,70,0,1,1,1,0,29,1,1,1,1,1,10,13,1,1,1,1,1,3500,8.12133181945077
+"175",410.985900878906,"dmonenbeimtrinkendemonichebevono","markusvallazza","italy",1734,"print-multiple","aquatint","none","none","666",120,10,15,0,1,1,1,0,282,1,1,1,1,1,32,14,1,1,1,1,1,150,6.03068526026126
+"176",2452.47680664062,"earlyspring","constantinlomikin","NY",1882,"painting","oil","canvas","none","188",2190,60,80,0,1,1,1,0,134,1,1,1,1,1,11,17,1,1,1,1,1,4800,7.81943539829861
+"177",1409.81713867188,"etschbeibozenladigepressobolzano","maxsparer","italy",1813,"painting","oil","board","none","689",1500,35,50,0,1,1,1,0,203,1,1,1,1,1,32,9,1,1,1,1,1,1750,7.49331724886215
+"178",2430.1943359375,"exlibrisdesignforaasidorov","pavelaleksandrovicsillingovskij","NY",1925,"print-multiple","woodcut","none","none","766",3070,45,35,0,1,1,1,0,91,1,1,1,1,1,26,31,1,1,1,1,1,1575,8.12133181945077
+"179",410.985900878906,"fischmarktmercatodelpesce","carlmoser","italy",1909,"print-multiple","woodcut in colors","none","none","147",0,40,45,0,1,1,1,0,107,1,1,1,1,1,25,9,1,1,1,1,1,1800,5.6970934865054
+"180",12074.44140625,"fishing","bakkoitay","singapore",1994,"painting","oil","canvas","none","126",12890,100,75,0,1,1,1,0,22,1,1,1,1,1,7,9,1,1,1,1,1,7500,9.48702469021842
+"181",21392.60546875,"flusslandschaftmitfischern","anthonyjanszvandercroos","cologne",1661,"painting","oil","canvas","none","93",22000,70,80,0,1,1,1,0,355,1,1,1,1,1,26,23,1,1,1,0,1,5600,10.0121625691618
+"182",410.985900878906,"gasseinkurtatschvicoloacortaccia","hansott","italy",1683,"print-multiple","woodcut in colors","none","none","425",70,15,10,0,1,1,1,0,333,1,1,1,1,1,32,7,1,1,1,1,1,150,5.90263333340137
+"183",2572.38305664062,"gebetinderstubepreigheranellastube","thomaswalch","italy",1927,"painting","oil","canvas","none","885",3500,70,105,0,1,1,1,0,89,1,1,1,1,1,34,11,1,1,1,1,1,7350,8.24170315972982
+"184",46170.78125,"geloralegong","srihadisoedarsono","singapore",1954,"painting","oil","canvas","none","872",45120,100,75,0,1,1,1,0,62,1,1,1,1,1,12,17,1,1,1,1,1,7500,10.7236527723129
+"185",2205.04028320312,"girlandwaterfall2","louismicheleilshemius","NY",1909,"painting","oil","paper","none","639",2190,35,25,0,1,1,1,0,107,1,1,1,1,1,17,21,1,1,1,0,1,875,7.81943539829861
+"186",8964.154296875,"heiligersebastian","grardseghersattrib","cologne",1976,"drawing-watercolor","black chalk","none","none","392",8000,55,30,0,1,1,1,0,40,1,1,1,1,1,17,18,1,1,1,1,1,1650,9.02352874990936
+"187",31192.10546875,"hens","chenwenxi","singapore",1965,"drawing-watercolor","ink"," color","paper","173",32230,70,45,0,1,1,1,0,51,1,1,1,1,1,4,9,1,1,1,1,1,3150,10.3897796760527
+"188",410.985900878906,"hlchristophorushlgeorgsanchristoforosangiorgio","hansprnster","italy",1908,"drawing-watercolor","watercolour","paper","none","428",200,10,10,1,0,1,1,0,108,1,1,1,1,1,46,11,1,1,1,1,1,100,6.20657592672493
+"189",410.985900878906,"hlfranziskussanfrancesco","hansprnster","italy",1877,"drawing-watercolor","gouache","paper","none","428",200,10,15,0,1,1,1,0,139,1,1,1,1,1,24,11,1,1,1,1,1,150,6.20657592672493
+"190",570.563781738281,"hfeinsdtirolmasiinaltoadige","rudolfcomplojer","italy",1944,"drawing-watercolor","watercolour","paper","none","835",250,15,40,0,1,1,1,0,72,1,1,1,1,1,27,15,1,1,1,1,1,600,6.30261897574491
+"191",1560.58129882812,"iloveny","henrykhudyakov","NY",1993,"drawing-watercolor","mixed media drawing","none","none","454",1885,55,90,0,1,1,1,0,23,1,1,1,1,1,7,14,0,1,1,1,1,4950,7.68753876620163
+"192",4707.576171875,"idylliclandscapeatthecitysedge","augustuswallcallcott","NY",1601,"painting","oil","canvas","none","123",5260,90,70,0,1,1,1,0,415,1,1,1,1,1,30,20,1,1,1,0,1,6300,8.62299361030245
+"193",2452.47680664062,"imbauerngartennelgiardinocontadino","karlpferschy","italy",1911,"painting","oil","canvas","none","592",2500,70,70,1,0,1,1,0,105,1,1,1,1,1,34,12,1,1,1,1,1,4900,7.9359451033537
+"194",6587.7060546875,"intheforest","nikolaipetrovichkrimov","NY",1857,"painting","oil","canvas","none","718",8770,45,35,0,1,1,1,0,159,1,1,1,1,1,11,22,1,1,1,1,1,1575,9.1122864315008
+"195",3919.52392578125,"indianblanket","zhanghongnian","NY",1622,"painting","oil","canvas","none","983",4385,65,50,0,1,1,1,0,394,1,1,1,1,1,13,13,1,1,1,1,1,3250,8.45126704130007
+"196",1017.21795654297,"kalkbrennereiintirolfornacedicalceintirolo","ottorasim","italy",1817,"painting","oil","board","none","743",400,20,30,0,1,1,1,0,199,1,1,1,1,1,42,9,1,1,1,1,1,600,6.54534966033442
+"197",810.477722167969,"klosterneuburg","marieadler","italy",1527,"print-multiple","etching","none","none","659",50,25,35,0,1,1,1,0,489,1,1,1,1,1,14,10,1,1,1,1,1,875,5.84643877505772
+"198",31192.10546875,"kois","chenwenxi","singapore",1956,"drawing-watercolor","ink"," color","paper","173",27715,45,45,1,0,1,1,0,60,1,1,1,1,1,4,9,1,1,1,1,1,2025,10.2404239671244
+"199",410.985900878906,"kornernteraccoltadelgrano","raimundwrle","italy",1829,"drawing-watercolor","watercolour","paper","none","802",100,20,15,0,1,1,1,0,187,1,1,1,1,1,25,11,1,1,1,1,1,300,5.98141421125448
+"200",570.563781738281,"kreuzigungcrocifissione","jakobdechirico","italy",1868,"drawing-watercolor","indian ink","none","none","498",250,45,25,0,1,1,1,0,148,1,1,1,1,1,23,14,1,1,1,1,1,1125,6.30261897574491
+"201",570.563781738281,"lace","mikhailtarkhanov","NY",1934,"drawing-watercolor","gouache","paper","none","704",700,30,45,0,1,1,1,0,82,1,1,1,1,1,4,16,1,1,1,1,1,1350,6.90475076996184
+"202",745.2880859375,"lakeview","levfeliksoviclagorio","NY",1595,"drawing-watercolor","graphite","none","none","625",1095,15,20,0,1,1,1,0,421,1,1,1,1,1,8,20,1,1,1,1,1,300,7.23849684089437
+"203",30624.515625,"landschaftmitbauerngehft","gillisclaeszdehondecoeter","cologne",1766,"painting","oil","wood","none","371",32500,40,65,0,1,1,1,0,250,1,1,1,1,1,24,25,1,1,1,0,1,2600,10.3980618357161
+"204",9658.244140625,"landschaftmitgehftlandschaftmitjgern","gillisegidiusipeeters","cologne",1650,"painting","oil","wood","none","372",9000,40,65,0,1,1,1,0,366,1,1,1,1,1,36,21,1,1,1,0,1,2600,9.13733947909169
+"205",1759.79711914062,"landschaftmitsteinhusernpaesaggioconcasedipietra","giovanniomiccioli","italy",1953,"painting","oil","canvas","none","377",1800,40,50,0,1,1,1,0,63,1,1,1,1,1,48,17,1,1,1,0,1,2000,7.64778604544093
+"206",7283.23876953125,"landschaftmitbelebterstrasse","adamfransvandermeulen","cologne",1933,"painting","oil","canvas","none","5",5000,30,40,0,1,1,1,0,83,1,1,1,1,1,28,21,1,1,1,0,1,1200,8.57470709761684
+"207",812.652709960938,"landschaftsstudien","emilschill","switzerland",1618,"painting","oil","wood","none","249",900,40,40,1,0,1,1,0,398,1,1,1,1,1,18,10,1,1,1,0,1,1600,7.08757370555797
+"208",410.985900878906,"littleisraelwanderedandwanderedthroughoutrussiainsear","eugeneabeshaus","NY",1977,"drawing-watercolor","watercolour","none","none","279",130,35,50,0,1,1,1,0,39,0,1,1,1,1,53,14,1,1,1,1,1,1750,6.05678401322862
+"209",3923.6416015625,"madureseboat","srihadisoedarsono","singapore",1969,"drawing-watercolor","watercolour","paper","none","872",2255,35,45,0,1,1,1,0,47,1,1,1,1,1,12,17,1,1,1,1,1,1575,7.84443670050403
+"210",570.563781738281,"maltepeistanbul","arthurnikodem","italy",1769,"drawing-watercolor","pencil","paper","none","114",600,20,15,0,1,1,1,0,247,1,1,1,1,1,15,13,1,1,1,1,1,300,6.79794041297493
+"211",570.563781738281,"musichallcircus","vsevolodsakhnovsky","NY",1931,"drawing-watercolor","gouache","paper","none","932",525,30,20,0,1,1,1,0,85,1,1,1,1,1,15,18,1,1,1,1,1,600,6.71113193747732
+"212",21175.8203125,"myinterpretationofthemannerofdfe","richardmaury","NY",2003,"painting","oil","canvas","panel","814",21925,115,95,0,1,1,1,0,13,1,1,1,1,1,32,12,1,1,1,1,1,10925,10.0087930666814
+"213",570.563781738281,"nightmareintheforest","borissvechnikoff","NY",1978,"drawing-watercolor","ink","none","none","137",615,25,30,0,1,1,1,0,38,1,1,1,1,1,20,16,1,1,1,1,1,750,6.81289499795818
+"214",2676.88305664062,"nudeinthegarden","dmitrikrapivny","NY",1928,"painting","oil","canvas","none","216",2190,35,60,0,1,1,1,0,88,1,1,1,1,1,15,14,1,1,1,1,1,2100,7.81943539829861
+"215",570.563781738281,"nusserhofbeibozennusserhofpressobolzano","rudolfcomplojer","italy",1627,"drawing-watercolor","watercolour","paper","none","835",350,30,35,0,1,1,1,0,389,1,1,1,1,1,39,15,1,1,1,1,1,1050,6.4707995037826
+"216",16715.3671875,"offenehgellandschaftmithirschjagd","janwynants","cologne",1816,"painting","oil","canvas","none","523",18000,70,80,0,1,1,1,0,200,1,1,1,1,1,33,10,1,1,1,0,1,5600,9.81443773570262
+"217",2572.38305664062,"ontheshore","victorkhromin","NY",1986,"painting","oil","canvas","none","914",3070,65,90,0,1,1,1,0,30,1,1,1,1,1,10,13,1,1,1,1,1,5850,8.12133181945077
+"218",4013.48583984375,"paristheseineandpaviliondefloreundersnow","eugnegalienlaloue","NY",1613,"drawing-watercolor","gouache","paper","none","286",6140,20,30,0,1,1,1,0,403,1,1,1,1,1,40,17,1,1,1,1,1,600,8.76950712003023
+"219",963.1630859375,"paronadivalpolicella","carlmoser","italy",1912,"print-multiple","woodcut in colors","none","none","147",1400,25,50,0,1,1,1,0,104,1,1,1,1,1,20,9,1,1,1,1,1,1250,7.43602781635185
+"220",570.563781738281,"parrotmermaidspectaculardimensionheart","ert","NY",1953,"sculpture-volume","medal","none","none","274",350,40,40,1,0,1,1,0,63,1,1,1,1,1,38,3,1,1,1,1,1,1600,6.47157319821191
+"221",1297.18908691406,"petersburgruinsandresurrection","pavelaleksandrovicsillingovskij","NY",1923,"print-multiple","woodcut","none","none","766",1140,50,35,0,1,1,1,0,93,1,1,1,1,1,30,31,1,1,1,1,1,1750,7.26926849956112
+"222",745.2880859375,"pflgenderbaueraratore","karlpferschy","italy",1719,"print-multiple","woodcut in colors","none","none","592",1200,45,50,0,1,1,1,0,297,1,1,1,1,1,21,12,1,1,1,1,1,2250,7.31055015853442
+"223",963.1630859375,"platzpiazza","paulflora","italy",1897,"drawing-watercolor","indian ink","none","none","755",1500,20,30,0,1,1,1,0,119,1,1,1,1,1,11,9,1,1,1,1,1,600,7.49331724886215
+"224",745.2880859375,"portraitofdmitriymendeleyev","vladimirpetrovichtseidler","NY",1749,"sculpture-volume","relief","none","none","928",875,30,25,0,1,1,1,0,267,1,1,0,1,1,27,25,1,1,1,1,1,750,7.06689350032043
+"225",6178.74169921875,"portraitofko","johanrudolfbonnet","singapore",1965,"drawing-watercolor","pastel","paper","none","558",6445,50,40,0,1,1,1,0,51,1,1,0,1,1,12,17,1,1,1,1,1,2000,8.81603773107413
+"226",1264.65441894531,"portraitofaseatedwomaninakimono","maxpistorius","NY",1932,"painting","oil","canvas","none","687",440,90,75,0,1,1,1,0,84,0,1,0,1,1,31,12,1,1,1,1,1,6750,6.59850902861452
+"227",2324.94653320312,"portraitofayoungbeauty","emileeismansemenowsky","NY",1883,"painting","oil","panel","none","240",3070,30,25,0,1,1,1,0,133,1,1,0,1,1,22,21,1,1,1,1,1,750,8.12133181945077
+"228",1017.21795654297,"redsquarescenes","leontiynikiforovichmazanov","NY",1901,"painting","oil","paper","board","620",440,35,50,0,1,1,1,0,115,1,1,1,1,1,15,26,1,1,1,1,1,1750,6.59850902861452
+"229",1191.94213867188,"regenstimmunginmoritzingatmosferapiovosaasmaurizio","carlmoser","italy",1919,"painting","oil","canvas","none","147",1000,20,25,0,1,1,1,0,97,1,1,1,1,1,50,9,1,1,1,1,1,500,7.16703787691222
+"230",1017.21795654297,"reitercavalieri","josefcostazza","italy",1904,"painting","oil","canvas","none","563",700,20,50,0,1,1,1,0,112,1,1,1,1,1,15,13,1,1,1,1,1,1000,6.9037472575846
+"231",17374.828125,"reitergefechtvoreinerstadt","karelbreydel","cologne",1577,"painting","oil","copper","none","585",18000,45,60,0,1,1,1,0,439,1,1,1,1,1,26,12,1,1,1,1,1,2700,9.81443773570262
+"232",1017.21795654297,"rosengartenimherbstcatinaccioinautunno","rudolfbellenzier","italy",1970,"painting","oil","cardboard","none","834",350,25,35,0,1,1,1,0,46,1,1,1,1,1,38,16,1,1,1,1,1,875,6.4707995037826
+"233",1264.65441894531,"scenesoftheeasternrussia","igorerchov","NY",1939,"painting","oil","canvas","none","468",525,45,70,0,1,1,1,0,77,1,1,1,1,1,24,10,1,1,1,1,1,3150,6.71113193747732
+"234",7530.67578125,"schiffeimsturmvorfelsigerkste","janipeetersattrib","cologne",2002,"painting","oil","canvas","none","509",6500,60,85,0,1,1,1,0,14,1,1,1,1,1,29,17,1,1,1,1,1,5100,8.82408948279182
+"235",570.563781738281,"schlosstirolcasteltirol","maxsparer","italy",1970,"print-multiple","woodcut in colors","none","none","689",800,30,45,0,1,1,1,0,46,1,1,1,1,1,23,9,1,1,1,1,1,1350,6.99942246750796
+"236",745.2880859375,"schmaleshauscasastretta","rudolfstolz","italy",1616,"drawing-watercolor","watercolour","paper","none","843",1200,35,25,0,1,1,1,0,400,1,1,1,1,1,23,11,1,1,1,1,1,875,7.31055015853442
+"237",2205.04028320312,"seatednudewithapreparatorysketchonverso","raphaelsoyer","NY",1913,"painting","oil","canvas","board","804",2190,50,40,0,1,1,1,0,103,0,1,1,1,1,39,12,1,1,1,1,1,2000,7.81943539829861
+"238",3720.30859375,"sovietfilmposterfordetibury","mikhailveksler","NY",1926,"print-multiple","poster","none","none","705",4385,105,70,0,1,1,1,0,90,1,1,1,1,1,27,14,1,1,1,1,1,7350,8.45126704130007
+"239",1017.21795654297,"spring","georgiizimin","NY",1951,"painting","oil","paper","board","362",700,30,25,0,1,1,1,0,65,1,1,1,1,1,6,12,1,1,1,1,1,750,6.90475076996184
+"240",18569.5,"stallsatthemarket","richardkarlovichzommer","NY",1788,"painting","oil","canvas","none","813",19730,75,80,0,1,1,1,0,228,1,1,1,1,1,17,22,1,1,1,1,1,6000,9.90491153818714
+"241",4688.14453125,"stehendevenusmitapfel","francescocristofanoilfranciabigio","cologne",1677,"drawing-watercolor","pencil","paper","none","303",1750,25,15,0,1,1,1,0,339,1,1,1,1,1,21,33,1,1,1,1,1,375,7.62364194651157
+"242",49153.66796875,"stilllifewithflowersandfruit","martirossergeevichsarian","NY",1939,"painting","oil","canvas","none","669",52620,65,85,0,1,1,1,0,77,1,1,1,1,1,28,24,1,1,1,1,1,5525,10.8764610295823
+"243",16939.7734375,"stilllebenmitzitrusfrchtenaufeinerzinnschaleundchines","cristoforomunari","cologne",1957,"painting","oil","canvas","none","196",16000,50,60,0,1,1,1,0,59,1,1,1,1,1,53,16,1,1,1,1,1,3000,9.69867495790664
+"244",20986.859375,"strandbeischeveningen","simonjacobszdevliegerattrib","cologne",1792,"painting","oil","wood","none","871",19000,40,65,0,1,1,1,0,224,1,1,1,1,1,21,27,1,1,1,1,1,2600,9.86765309952691
+"245",570.563781738281,"summerinthevillage","aleksandrtyshler","NY",1940,"drawing-watercolor","ink","none","none","36",525,25,35,0,1,1,1,0,76,1,1,1,1,1,18,16,1,1,1,1,1,875,6.71113193747732
+"246",15810.0771484375,"templeandtree","ariesmit","singapore",2006,"painting","oil","canvas","none","106",16115,60,50,0,1,1,1,0,10,1,1,1,1,1,13,8,1,1,1,1,1,3000,9.70567665284604
+"247",963.1630859375,"theflyingkomarovcompletealbum6from10charactersseri","ilyakabakov","NY",1994,"print-multiple","print in colors","none","none","470",1315,50,35,0,1,1,1,0,22,1,1,1,1,1,50,11,1,1,1,1,1,1750,7.38492070125549
+"248",4460.138671875,"thegirls","alexanderbashbeukmelikian","NY",1964,"painting","oil","canvas","none","40",5260,50,40,0,1,1,1,0,52,1,1,1,1,1,8,25,1,1,1,1,1,2000,8.62299361030245
+"249",1878.29382324219,"themorningritual","ettoresimonetti","NY",1811,"drawing-watercolor","watercolour","paper","none","276",2630,65,45,0,1,1,1,0,205,1,1,1,1,1,16,15,1,1,1,1,1,2925,7.98156244873128
+"250",4707.576171875,"thespringthaw","vitoldbialynitskibirulla","NY",1989,"painting","oil","canvas","none","924",6140,70,85,0,1,1,1,0,27,1,1,1,1,1,13,24,1,1,1,1,1,5950,8.76950712003023
+"251",27107.326171875,"torsedeclotho","camilleclaudel","NY",1737,"sculpture-volume","bronze","none","none","143",26310,45,45,1,0,1,1,0,279,1,1,1,1,1,13,14,1,1,1,1,1,2025,10.1888920332439
+"252",410.985900878906,"traminerschnappviehschnappviehditermeno","hansprnster","italy",2000,"drawing-watercolor","indian ink","paper","none","428",100,10,10,1,0,1,1,0,16,1,1,1,1,1,39,11,1,1,1,1,1,100,5.98141421125448
+"253",1210.60144042969,"unterwasserweltmondosubacqueo","mayhofer","italy",1993,"tapestry","tapestry","none","none","693",1400,100,65,0,1,1,1,0,23,1,1,1,1,1,29,8,1,1,1,1,1,6500,7.43602781635185
+"254",1799.22485351562,"untitled31","rogeliopolesello","NY",1965,"painting","acrylic","canvas","none","823",2190,65,65,1,0,1,1,0,51,1,1,1,1,1,10,16,1,1,1,1,0,4225,7.81943539829861
+"255",29272.580078125,"village","cheongsoopieng","singapore",1959,"drawing-watercolor","watercolour","paper","none","174",32230,90,45,0,1,1,1,0,57,1,1,1,1,1,7,14,1,1,1,1,1,4050,10.3897796760527
+"256",570.563781738281,"villageshepherdsayoungownervillagemarket","porfirijlebedew","NY",1979,"drawing-watercolor","watercolour","paper","none","800",525,40,40,1,0,1,1,0,37,1,1,1,1,1,40,15,1,1,1,1,1,1600,6.71113193747732
+"257",162.475692749023,"waagebilancia","mariusspiller","italy",1623,"painting","mixed media","canvas","none","663",1500,100,100,1,0,1,1,0,393,1,1,1,1,1,13,13,1,1,1,1,1,10000,7.49331724886215
+"258",1784.98754882812,"wandererimgebirgeviandanteinmontagna","paulflora","italy",2006,"drawing-watercolor","indian ink","paper","none","755",1800,45,60,0,1,1,1,0,10,1,1,1,1,1,36,9,1,1,1,1,1,2700,7.64778604544093
+"259",9410.8076171875,"weiteflusslandschaft","franzschtz","cologne",1575,"painting","oil","wood","none","321",8000,35,45,0,1,1,1,0,441,1,1,1,1,1,20,10,1,1,1,0,1,1575,9.02352874990936
+"260",410.985900878906,"winterabendserainvernale","franzkberl","italy",1705,"print-multiple","woodcut in colors","none","none","318",120,10,15,0,1,1,1,0,311,1,1,1,1,1,24,10,1,1,0,1,1,150,6.03068526026126
+"261",66965.7578125,"winterlandschaftmitbauernvoreinemwirtshausundschlittsc","klaesmolenaer","cologne",1633,"painting","oil","canvas","none","603",70000,70,95,0,1,1,1,0,383,1,0,1,1,1,54,13,1,1,0,0,1,6650,11.1604701771757
+"262",4701.39306640625,"zweihirtinneninsdlicherlandschaft","jacobphilipphackert","cologne",1567,"drawing-watercolor","ink"," brush","none","489",3500,35,25,0,1,1,1,0,449,1,1,1,1,1,33,19,1,1,1,0,1,875,8.24170315972982
+"263",2334.58984375,"zweiliegenderinder","johannchristianklengel","cologne",1777,"drawing-watercolor","ink"," pen"," brush","543",1200,20,35,0,1,1,1,0,239,1,1,1,1,1,18,22,1,1,1,1,1,700,7.31055015853442
